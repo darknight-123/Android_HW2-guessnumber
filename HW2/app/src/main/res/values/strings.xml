@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GuessNumber_HW</string>
+    <string name="again_button">再玩一次</string>
+    <string name="begin">請猜一個介於1~100之數字</string>
+    <string name="result">你猜測的結果將顯示於此!</string>
+</resources>
